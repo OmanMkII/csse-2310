@@ -1,3 +1,11 @@
+# TODO: get library references 2018 working
+2018/
+
+# TODO: get tests working
+test/
+
+# --- C ---
+
 # Prerequisites
 *.d
 
