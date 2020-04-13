@@ -1,0 +1,5 @@
+General TODO:
+
+ - Reformat and use 2310lib.* as library
+ - Implement test suite and pass all tests
+ - Revise tutor's feedback and implement

@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <ctype.h>
 
-#include "a1-2310util.h"
+#include "2310util.h"
 
 /* Data Types */
 
